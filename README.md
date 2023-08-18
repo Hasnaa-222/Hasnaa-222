@@ -1,3 +1,5 @@
+Hi 👋, I'm Ahmed Gamal
+                 Fresh Graduate Software Engineer from Cairo University
 💻 I'm interested in Software Engineering & Artificial Intelligence
 📱 I’m currently learning Machine Learning 
 💡 Good at Mobile Development 
